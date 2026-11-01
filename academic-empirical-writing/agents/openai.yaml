@@ -1,0 +1,4 @@
+interface:
+  display_name: Academic Empirical Writing
+  short_description: Refine dense empirical writing for geography papers
+  default_prompt: Use $academic-empirical-writing to review or rewrite an empirical section while preserving the target journal's dense paragraph style.
